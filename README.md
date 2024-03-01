@@ -1,5 +1,7 @@
 # Youtube_GPT_Creator
 
+![lngchn](https://github.com/omersaidylmz/Youtube_GPT_Creator/assets/138215648/293efd16-2c2a-4026-9bd3-1d55eddf6e81)
+
 ## 🚀✨ OpenAi ve LangChain İle Youtube Video Oluşturucu!
 Herkese Merhaba ! 👋
 Sizlerle bir projeyi paylaşmak istiyorum! Youtube videoları için metin hazırlanmadı ile ilgili bir çalışmaya yaptım. Bu süreçte OpenAi dil modelinden ve Langchain kütüphanesinden faydalandım.
